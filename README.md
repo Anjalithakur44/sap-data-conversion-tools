@@ -10,14 +10,11 @@ It includes multiple techniques for migrating, processing, and transforming data
 ---
 
 ## Repository Structure
-
-Data_Conversion/
-│
-├── BDC/                  # Programs for Batch Data Communication
-├── LSMW/                 # Projects for Legacy System Migration Workbench
-├── BAPI/                 # Standard BAPI programs
-│   └── BAPI_Extension/   # Custom enhancements to standard BAPIs
-
+-**Data_Conversion/**
+  -**BDC/**                 # Programs for Batch Data Communication
+  -**LSMW/**                 # Projects for Legacy System Migration Workbench
+  -**BAPI/**                 # Standard BAPI programs
+   -**BAPI_Extension/**   # Custom enhancements to standard BAPIs
 
 ---
 
