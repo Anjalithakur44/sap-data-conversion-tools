@@ -1,0 +1,8 @@
+PMATER1	P	TVR	Material1	EA
+PMATER2	P	TVR	Material2	EA
+PMATER3	P	TVR	Material3	EA
+PMATER4	P	VKHM	Material4	EA
+PMATER5	P	VKHM	Material5	EA
+PMATER6 P       TVR     Material6       EA
+PMATER7	P	TVR	Material7	EA
+PMATER8	P	TVR	Material8	EA
