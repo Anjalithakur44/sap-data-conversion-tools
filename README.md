@@ -31,14 +31,16 @@ This provides a flexible and maintainable foundation for material master or othe
 
 ## Repository Structure
 
+```md
+```txt
 /Data_Conversion/
-├─ BDC/ # Programs for BDC-based migration
-├─ LSMW/ # LSMW project folders for legacy migration
-├─ BAPI/ # Standard BAPI-based conversion programs
-└─ BAPI_Extension/ # Custom extended BAPI implementations
+    ├── BDC/              # Programs for BDC-based migration
+    ├── LSMW/             # LSMW project folders for legacy migration
+    ├── BAPI/             # Standard BAPI-based conversion programs
+    └── BAPI_Extension/   # Custom extended BAPI implementations
+```
 
 ---
-
 
 ### Subfolder Purpose
 | Subfolder       | Purpose |
